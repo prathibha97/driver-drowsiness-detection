@@ -57,3 +57,5 @@ while cap.isOpened():
         break
 cap.release()
 cv2.destroyAllWindows()
+
+# https://universe.roboflow.com/hudzaifah-makoto-ffg32/eyes-nawse
